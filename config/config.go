@@ -1,8 +1,6 @@
 package config
 
 import (
-	"errors"
-
 	"gorm.io/gorm"
 )
 
